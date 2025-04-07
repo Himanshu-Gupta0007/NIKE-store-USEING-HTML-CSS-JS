@@ -10,11 +10,11 @@ const wrapper = document.querySelector(".sliderWrapper");
      colors: [
        {
          code: "black",
-         img: "./img/air.png",
+         img: "image.png",
        },
        {
          code: "darkblue",
-         img: "./img/air2.png",
+         img: "image copy.png",
        },
      ],
    }, //2Has conversations. Original line has conversations.
@@ -25,11 +25,11 @@ const wrapper = document.querySelector(".sliderWrapper");
      colors: [
        {
          code: "lightgray",
-         img: "./img/jordan.png",
+         img: "image copy 12.png",
        },
        {
          code: "green",
-         img: "./img/jordan2.png",
+         img: "image copy 3.png",
        },
      ],
    },
@@ -40,11 +40,11 @@ const wrapper = document.querySelector(".sliderWrapper");
      colors: [
        {
          code: "lightgray",
-         img: "./img/blazer.png",
+         img: "image copy 2.png",
        },
        {
          code: "green",
-         img: "./img/blazer2.png",
+         img: "image copy 13.png",
        },
      ],
    },
@@ -55,11 +55,11 @@ const wrapper = document.querySelector(".sliderWrapper");
      colors: [
        {
          code: "black",
-         img: "./img/crater.png",
+         img: "image copy 5.png",
        },
        {
          code: "lightgray",
-         img: "./img/crater2.png",
+         img: "image copy 6.png",
        },
      ],
    },
@@ -70,11 +70,11 @@ const wrapper = document.querySelector(".sliderWrapper");
      colors: [
        {
          code: "gray",
-         img: "./img/hippie.png",
+         img: "image copy 9.png",
        },
        {
          code: "black",
-         img: "./img/hippie2.png",
+         img: "image copy 10.png",
        },
      ],
    },
